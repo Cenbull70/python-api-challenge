@@ -17,7 +17,7 @@ There are two different jupyter notebooks assocated with this repository. The fi
 <p>Linear regression scatter plot for Northern Hemisphere: Cloudiness (%) vs. Latitude</p>
 <p>Linear regression scatter plot for Southern Hemisphere: Cloudiness (%) vs. Latitude</p>
 <p>Linear regression scatter plot for Northern Hemisphere: Wind Speed (m/s) vs. Latitude</p>
-<p>Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude</p>
+<p>Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude</p></b>
 
 <p><h2></h1>Part 2: VacationPy</h1><br>
 <p>Create a map that displays a point for every city in the city_data_df DataFrame</p>
