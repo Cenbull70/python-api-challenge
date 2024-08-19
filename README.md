@@ -1,7 +1,8 @@
 # python-api-challenge
+There are two different jupyter notebooks assocated with this repository. The first, WeatherPY, look at analyziing different weather effects based on position on the earth in comparision to the equator. These weather effects include max temperture, wind and humidity. The second, VactionPy, looks to narrow down potential hotels througout the world that meet certain weatehr requirements. 
 
-<p><h2>Part 1: WeatherPy</h1></p>
-<p><h3>Create Plots to Showcase the Relationship Between Weather Variables and Latitude<h3></p>
+<p><h2>Part 1: WeatherPy</h1></p></b>
+<p><h3>Create Plots to Showcase the Relationship Between Weather Variables and Latitude<h3></p></h3></b>
 <p>Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code</p>
 <p>Create a scatter plot to showcase the relationship between Latitude vs. Temperature</p>
 <p>Create a scatter plot to showcase the relationship between Latitude vs. Humidity</p>
