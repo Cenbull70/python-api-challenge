@@ -19,7 +19,7 @@ There are two different jupyter notebooks assocated with this repository. The fi
 <p>Linear regression scatter plot for Northern Hemisphere: Wind Speed (m/s) vs. Latitude</p>
 <p>Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude</p></b>
 
-<p><</h1>Part 2: VacationPy</h1><br>
+<p><h1>Part 2: VacationPy</h1></p></b>
 <p>Create a map that displays a point for every city in the city_data_df DataFrame</p>
 <p>Narrow down the city_data_df DataFrame to find your ideal weather condition</p>
 <p>For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates</p>
