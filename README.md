@@ -1,7 +1,7 @@
 # python-api-challenge
 
 <p><h1>Part 1: WeatherPy</h1><br>
-<p><h2>Create Plots to Showcase the Relationship Between Weather Variables and Latitude</h2><br>
+<p>Create Plots to Showcase the Relationship Between Weather Variables and Latitude</p>
 Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code (10 points)
 
 Create a scatter plot to showcase the relationship between Latitude vs. Temperature (5 points)
